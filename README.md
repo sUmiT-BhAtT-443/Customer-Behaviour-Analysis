@@ -268,8 +268,10 @@ The project contains two interactive dashboard pages built to analyze customer b
 
 ## Dashboard 1: Customer Revenue Analysis
 
+## Dashboard 1: Customer Revenue Analysis
+
 <p align="center">
-  <img src="https://i.postimg.cc/2Ss2rjZ2/Customer-Revenue-Analysis.png" width="850">
+  <img src="https://i.postimg.cc/2Ss2rjZ2/Customer-Revenue-Analysis.png">
 </p>
 
 ### Highlights
@@ -291,8 +293,10 @@ The project contains two interactive dashboard pages built to analyze customer b
 
 ## Dashboard 2: Best vs Worst Analysis
 
+## Dashboard 2: Best vs Worst Analysis
+
 <p align="center">
-  <img src="https://i.postimg.cc/dtX9jQnW/Best-Worst.png" width="850">
+  <img src="https://i.postimg.cc/dtX9jQnW/Best-Worst.png">
 </p>
 
 ### Highlights
