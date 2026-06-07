@@ -4,6 +4,19 @@ An end-to-end Data Analytics project focused on understanding customer purchasin
 
 ---
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-Interactive%20Dashboard-F2C811?logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-Business%20Insights-CC2927?logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Cleaning-150458?logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Project-Completed-success"/>
+<img src="https://img.shields.io/badge/Level-Advanced-orange"/>
+
+</p>
+
+---
+
 ## 📌 Project Overview
 
 Organizations generate large volumes of customer transaction data every day, but raw data alone cannot support strategic decision-making.
