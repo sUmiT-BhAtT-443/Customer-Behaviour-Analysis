@@ -264,7 +264,7 @@ The project contains two interactive dashboard pages.
 ## Dashboard 1: Customer Revenue Analysis
 
 <p align="center">
-  <img src="https://postimg.cc/QFqpq3ST">
+  <img src="https://postimg.cc/mtYMbsvM" alt="Customer Revenue Analysis" width="900">
 </p>
 
 ### KPIs
@@ -274,30 +274,12 @@ The project contains two interactive dashboard pages.
 - Total Revenue
 - Average Spend
 
-### Analysis Performed
-- Revenue by Gender
-- Revenue by Category
-- Revenue by Shipping Type
-- Revenue by Season
-- Revenue by Payment Method
-- Revenue by Age Distribution
-- Customer Count & Average Revenue by Location
-
-### Key Insights
-- Male customers contribute the highest share of revenue.
-- Electronics generate the highest revenue among all categories.
-- Standard and Express shipping methods have the highest order volumes.
-- Spring, Summer, and Winter contribute nearly equal revenue, while Fall generates the least.
-- The 51+ age group contributes the largest revenue share.
-- Debit Card, Cash, and Credit Card are the most preferred payment methods.
-- New York, Los Angeles, and Chicago are among the top revenue-generating locations.
-
 ---
 
 ## Dashboard 2: Best vs Worst Analysis
 
 <p align="center">
-  <img src="https://postimg.cc/mtYMbsvM">
+  <img src="https://postimg.cc/mtYMbsvM" alt="Best vs Worst Analysis" width="900">
 </p>
 
 ### Top Performance Analysis
@@ -309,22 +291,6 @@ The project contains two interactive dashboard pages.
 - Bottom 5 Products by Rating
 - Bottom 5 Products by Revenue
 - Bottom 5 Revenue Generating Locations
-
-### Key Insights
-- Belt, Jewelry, Pants, and Blouse are among the highest-rated products.
-- Phone, Bag, and Watch generate the highest revenue.
-- New York, Houston, and Los Angeles lead in location-wise revenue.
-- Headphones and Watch have comparatively lower customer ratings.
-- Jeans, Jacket, and Socks appear among the lowest revenue-generating products.
-- Kansas, Rhode Island, and Arizona contribute the lowest revenue among locations.
-
-### Business Value
-- Identify high-performing products for promotion.
-- Detect low-performing products requiring improvement.
-- Support inventory optimization and demand planning.
-- Improve product recommendation strategies.
-- Enable data-driven marketing and pricing decisions.
-- Increase customer satisfaction and overall profitability.
 
 ---
 
