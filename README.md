@@ -519,16 +519,9 @@ Customer-Shopping-Behaviour-Analysis
 ├── SQL
 │   └── Business_Insights.sql
 │
-├── PowerBI
-│   └── Customer_Behaviour_Analysis.pbix
-│
-├── Dashboard_Images
-│   ├── Customer_Revenue_Analysis.png
-│   └── Best-Worst.png
+├─ Customer_Behaviour_Analysis.pbix
 │
 ├── README.md
-│
-└── requirements.txt
 ```
 
 ---
