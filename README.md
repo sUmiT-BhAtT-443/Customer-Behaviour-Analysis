@@ -259,7 +259,7 @@ The project contains two interactive dashboard pages.
 
 # Dashboard 1: Customer Revenue Analysis
 
-![Customer Revenue Analysis](https://i.postimg.cc/2Ss2rjZ2/Customer-Revenue-Analysis.png)
+![Customer Revenue Analysis](https://i.postimg.cc/vTqn0XsP/Customer-Analysis-revenue.png)
 
 ### KPIs
 
@@ -290,7 +290,7 @@ The project contains two interactive dashboard pages.
 
 # Dashboard 2: Best vs Worst Analysis
 
-![Best vs Worst Analysis](https://i.postimg.cc/dtX9jQnW/Best-Worst.png)
+![Best vs Worst Analysis](https://i.postimg.cc/Dzrb97hC/Best-Worst.png)
 
 ### Top Performance Analysis
 
