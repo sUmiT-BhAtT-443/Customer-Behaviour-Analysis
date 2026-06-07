@@ -4,7 +4,9 @@ An end-to-end Data Analytics project focused on understanding customer purchasin
 
 ---
 
-🔗Live Link : https://app.powerbi.com/view?r=eyJrIjoiODBjM2UxZDAtMDcxYS00NDBjLTkzY2QtNTViMmI1Yjk2ZDRjIiwidCI6IjE5MjA4NDBiLTA0YjctNDRhZi05YTRkLTk4YmFkZjRlY2M0YSJ9
+# 🔗Live Link : https://app.powerbi.com/view?r=eyJrIjoiODBjM2UxZDAtMDcxYS00NDBjLTkzY2QtNTViMmI1Yjk2ZDRjIiwidCI6IjE5MjA4NDBiLTA0YjctNDRhZi05YTRkLTk4YmFkZjRlY2M0YSJ9
+
+---
 
 ## 📌 Project Overview
 
