@@ -1,4 +1,4 @@
-# 🛒 Customer Shopping Behaviour Analysis
++++# 🛒 Customer Shopping Behaviour Analysis
 
 An end-to-end Data Analytics project focused on understanding customer purchasing behavior, identifying revenue drivers, analyzing customer segments, and generating actionable business insights using Python, SQL Server, and Power BI.
 
@@ -265,59 +265,17 @@ The project contains two interactive dashboard pages.
 The project contains two interactive dashboard pages built to analyze customer behavior, revenue trends, product performance, and customer segments.
 
 ---
+## Main Dashboard
 
-## Dashboard 1: Customer Revenue Analysis
-
-## Dashboard 1: Customer Revenue Analysis
-
-<p align="center">
-  <img src="https://i.postimg.cc/2Ss2rjZ2/Customer-Revenue-Analysis.png">
-</p>
-
-### Highlights
-- Revenue by Gender
-- Revenue by Category
-- Revenue by Season
-- Revenue by Payment Method
-- Revenue by Age Group
-- Revenue by Location
-- Shipping Type Analysis
-
-### Key Insights
-- Electronics generate the highest revenue.
-- Male customers contribute the largest revenue share.
-- Customers aged 51+ generate the most revenue.
-- New York and Los Angeles are top revenue locations.
+![Dashboard](https://i.postimg.cc/2Ss2rjZ2/Customer-Revenue-Analysis.png)
 
 ---
 
-## Dashboard 2: Best vs Worst Analysis
+## Interactive Filtering Example
 
-## Dashboard 2: Best vs Worst Analysis
+![Filters Applied](https://i.postimg.cc/dtX9jQnW/Best-Worst.png)
 
-<p align="center">
-  <img src="https://i.postimg.cc/dtX9jQnW/Best-Worst.png">
-</p>
-
-### Highlights
-- Top 5 Products by Rating
-- Bottom 5 Products by Rating
-- Top 5 Products by Revenue
-- Bottom 5 Products by Revenue
-- Top & Bottom Revenue Locations
-
-### Key Insights
-- Phone, Bag, and Watch are top revenue products.
-- Belt and Jewelry are among the highest-rated products.
-- Kansas and Rhode Island contribute the lowest revenue.
-- Helps identify both best-performing and underperforming areas.
-
-### Features
-- Interactive Slicers
-- Dynamic KPI Cards
-- Bookmark Reset Button
-- Cross-Filtering Visuals
-- Professional Power BI Design
+---
 ---
 
 # 🔍 SQL Business Insights
