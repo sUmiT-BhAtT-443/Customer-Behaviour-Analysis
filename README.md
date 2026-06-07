@@ -259,7 +259,7 @@ The project contains two interactive dashboard pages.
 
 # Dashboard 1: Customer Revenue Analysis
 
-![Customer Revenue Analysis](https://i.postimg.cc/vTqn0XsP/Customer-Analysis-revenue.png)
+![Customer Revenue Analysis](https://i.postimg.cc/tC6RS2pv/revenue-analysis.png)
 
 ### KPIs
 
